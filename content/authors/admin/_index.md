@@ -3,21 +3,22 @@ title: Xiang LI (李想)
 role: ""
 avatar_filename: portrait.jpg
 organizations:
-  - name: Hong Kong University of Science and Technology
-    url: www.ust.hk
+  - name: The Hong Kong University of Science and Technology
 superuser: true
 authors:
   - admin
 bio: Computer Engineering student in The Hong Kong University of Science and
   Technology(HKUST)
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - brain-machine interface
+  - robotics
+  - statistical learning
 social: []
 education:
-  courses: []
-email: ""
+The Hong Kong University of Science and Technology
+B.Eng. Computer Engineering
+  #courses: []
+email: "xlidq@connect.ust.hk"
 user_groups:
   - ""
 ---
