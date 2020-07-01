@@ -8,7 +8,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: Computer Engineering student in Hong Kong University of Science and
+bio: Computer Engineering student in The Hong Kong University of Science and
   Technology(HKUST)
 interests:
   - Artificial Intelligence
@@ -17,12 +17,10 @@ interests:
 social: []
 education:
   courses: []
-email: xlidq@connect.ust.hk
+email: ""
 user_groups:
-  - Researchers
-  - Visitors
+  - ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiang LI is a computer engineering student, who is interested in the brain-machine interface(BMI) for the motor cortex, simultaneous localization and mapping(SLAM) for robotics, neuron simulation, and statistical learning. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
