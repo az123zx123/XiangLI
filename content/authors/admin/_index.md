@@ -21,6 +21,4 @@ email: ""
 user_groups:
   - ""
 ---
-Xiang LI is a computer engineering student, who is interested in the brain-machine interface(BMI) for the motor cortex, simultaneous localization and mapping(SLAM) for robotics, neuron simulation, and statistical learning. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xiang LI is a computer engineering student, who is interested in the brain-machine interface(BMI) for the motor cortex, simultaneous localization and mapping(SLAM) for robotics, neuron simulation, and statistical learning.
